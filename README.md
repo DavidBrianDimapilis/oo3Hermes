@@ -1,6 +1,7 @@
 Team Hermes' Proposal
 
 Members: Rudd Antony, David Dimapilis, Aidan Ong
+Team Ledaer: Aidan Ong
 
 Project Title: Educational Typing System (TypeCraft)
 
